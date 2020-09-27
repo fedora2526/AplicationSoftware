@@ -1,0 +1,2 @@
+# AplicationSoftware
+MyStartApplications
